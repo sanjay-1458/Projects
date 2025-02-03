@@ -1,0 +1,25 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  font-family: sans-serif;
+}
+#header {
+  height: 100vh;
+  background-image: url("assets/images/background.png");
+  background-position: cover;
+}
+.container {
+  margin-left: 100px;
+  margin-right: 100px;
+}
+.logo {
+  margin-top: 30px;
+  width: 100px;
+}
+.header-text{
+    max-width: 350px;
+    margin-top:140px;
+}
+h1{
+    font-size: 34px;
+}
